@@ -1,3 +1,6 @@
+var video;
+
+
 function preload(){
 }
 
